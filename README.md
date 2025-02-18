@@ -4,9 +4,14 @@ This Power BI project delivers insightful analysis of AdventureWorks' sales perf
 
 
 🔹 Key Features:
+
 ✔ Sales & revenue analysis trends
+
 ✔ Customer segmentation insights
+
 ✔ Product performance tracking
+
 ✔ Regional sales distribution
+
 ✔ Interactive visualizations
 
